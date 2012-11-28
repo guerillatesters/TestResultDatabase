@@ -1,9 +1,11 @@
 The TestResultDatabase is a tool for SW testers/managers and coordinators to manage test data.
 Once a project starts testing seriously large amounts of data will be generated.
 By analysing the data, regression and trends can be spotted.
-Accessing the data and creating test reports using a test reult database becomes a piece of cake allowing testers etc to concrentrate on more interesting tasks.
+Accessing the data and creating test reports using a test reult database becomes a piece of cake, 
+allowing testers etc to concrentrate on more interesting tasks.
 
 The need for creating a test result database came up a few years ago and one was created within our team at the time.
 But the IT world moves fast and the implementation is now out of date and seriously needed a rewrite.
-So nows the chance to start from scratch using the latest advancements to hopefully create a simple yet effective test result database.
+So nows the chance to start from scratch using the latest advancements to hopefully create a simple,
+yet effective test result database.
 
