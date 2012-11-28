@@ -1,11 +1,9 @@
-A few years ago a colleague (SW tester) had a bright idea... to create a database with a web front end to manage all our test results.
-The was a great time saver as it freed us up from making test reports to do more interesting work. 
-It also kept our managers off our backs as they could check the results themselves online.
-This idea expanded over the years into a feature that was essential to the daily working life.
-Regression trending, test coverage and failures could be seen in an instant. 
+The TestResultDatabase is a tool for SW testers/managers and coordinators to manage test data.
+Once a project starts testing seriously large amounts of data will be generated.
+By analysing the data, regression and trends can be spotted.
+Accessing the data and creating test reports using a test reult database becomes a piece of cake allowing testers etc to concrentrate on more interesting tasks.
 
-Unfortunately the company sold off its divisions to other companies and a number of us left and went to work for different divisions.
-We couldn't take the newest code with us (ethically) so we ended up with older versions which we then improved (forking) but were never able to merge back.
+The need for creating a test result database came up a few years ago and one was created within our team at the time.
+But the IT world moves fast and the implementation is now out of date and seriously needed a rewrite.
+So nows the chance to start from scratch using the latest advancements to hopefully create a simple yet effective test result database.
 
-Switching jobs again revealed that another division needed a test result management system.
-After a few times of reinventing the wheel I have decided to start with a clean sheet, design it better, make it open source then everyone can profit from it.
