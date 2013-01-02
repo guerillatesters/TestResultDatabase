@@ -1,0 +1,3 @@
+[submodule "treat"]
+	path = treat
+	url = git@github.com:guerillatesters/treat.git
