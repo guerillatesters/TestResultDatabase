@@ -1,0 +1,31 @@
+
+	body{
+		font: sans-serif;
+		background-color: #5c5c5c;
+		margin: 50px;
+	}
+	
+tr.odd {
+	background-color: #FFB840;
+}
+
+tr.even {
+	background-color: #BF8A30;
+}
+
+/*
+ * Sorting classes for columns
+ */
+/* For the standard odd/even */
+tr.odd td.sorting_1 {
+	background-color: #FFCB73;
+}
+
+tr.even td.sorting_1 {
+	background-color: #A66900;
+}
+
+H1 {
+	font: Verdana;
+	font-size : 34;
+}
